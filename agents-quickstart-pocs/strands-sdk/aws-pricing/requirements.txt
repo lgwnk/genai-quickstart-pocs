@@ -1,0 +1,18 @@
+# Python dependencies for AWS pricing project
+# Add your dependencies here as needed
+
+# Strands Agents SDK
+strands-agents>=0.1.0
+
+# MCP (Model Context Protocol) dependencies
+mcp>=1.0.0
+
+# Streamlit for web interface
+streamlit>=1.28.0
+
+# Additional dependencies that might be needed
+asyncio-mqtt>=0.13.0
+aiohttp>=3.8.0
+requests>=2.31.0
+boto3>=1.34.0
+botocore>=1.34.0 
